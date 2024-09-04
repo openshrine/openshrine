@@ -2,7 +2,7 @@
   
 - 👀 I’m interested in crafted beers, vintage bikes and web development of course !
   
-- 🌱 I’m currently learning HTML / CSS / JS / SEO ...
+- 🌱 I’m currently learning HTML / CSS / JS / SEO / REACT
   
 - 💞️ I’m looking to collaborate on learning web development !
   
